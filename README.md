@@ -1,4 +1,4 @@
-# 🌴 About Me
+🌴 About Me
 ❤️ Studying and working at Ton Duc Thang University <br/>
 💌 Learning about UX/UI, web application, deep learning
 
