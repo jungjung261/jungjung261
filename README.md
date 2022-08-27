@@ -1,5 +1,5 @@
 # 🌴 About Me
-❤️ Studying and working at Ton Duc Thang University
+❤️ Studying and working at Ton Duc Thang University <br/>
 💌 Learning about UX/UI, web application, deep learning
 
 # 📌 Tech Stack
